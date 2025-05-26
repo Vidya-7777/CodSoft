@@ -67,16 +67,6 @@ Scores are calculated based on correct answers.
 
 ---
 
-## Folder Structure
-
-Each task is implemented in a separate `.java` file:
-- `Task1_NumberGuessingGame.java`
-- `Task2_StudentGradeCalculator.java`
-- `Task3_ATMInterface.java`
-- `Task4_QuizWithTimer.java`
-
----
-
 ## Conclusion
 
 This internship helped me strengthen my Java fundamentals through hands-on coding tasks.  
